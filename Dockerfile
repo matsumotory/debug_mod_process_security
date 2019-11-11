@@ -1,7 +1,7 @@
 FROM centos:8
 
 # Build:
-#   docker build -t mod_process_security-centos8 -f Dockerfile.centos8 .
+#   docker build -t mod_process_security-centos8 .
 #
 # Run:
 #   docker run --rm -p 8080:80 mod_process_security-centos8
