@@ -10,7 +10,7 @@ $ vagrant up && vagrant ssh
 
 $ sudo gdb /usr/sbin/httpd
 
-(gdb) r -D FOREGROUND
+(gdb) r -X
 
 #### other terminal on centos8
 
